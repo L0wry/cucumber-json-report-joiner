@@ -1,0 +1,14 @@
+{
+  "name": "cucumber-merge",
+  "version": "1.0.0",
+  "description": "",
+  "main": "mergeReport.js",
+  "scripts": {
+    "test": "jest src"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "jest": "26.0.1"
+  }
+}
